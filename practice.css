@@ -1,0 +1,17 @@
+.container{
+    width: 80%;
+margin: 0 auto;
+
+}
+
+.coment-block{
+    padding: 10px;
+    border: 1px solid  black;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+  align-items: center;
+}
+.first{
+    font-family: sans-serif;
+}
